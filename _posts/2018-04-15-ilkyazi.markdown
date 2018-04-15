@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "İlk Blog"
+date:   2018-04-15 11:39:42 +0300
+categories: jekyll update
+---
+
+İlk yazı.
+
+Hello World!.
