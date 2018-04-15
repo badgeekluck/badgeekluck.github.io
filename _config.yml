@@ -1,4 +1,4 @@
-title: Blog
+title: Harun Baş | Blog
 description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
