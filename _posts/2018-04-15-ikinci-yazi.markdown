@@ -1,8 +1,0 @@
----
-layout: post
-title:  "RAM"
-date:   2018-04-15 11:39:42 +0300
-categories: jekyll update
----
-
-İşletim sistemleri, kendi dosyaları ve kullanıcı dosyalarının sabit diskte organize bir şekilde tutulması için dosya sistemleri (File System) sunarlar. Kalıcı depolama sağlayan diskler ise SSD (Solid State Drive) adı verilen yeni nesil diskler de dahil olmak üzere bilgisayar sistemindeki en yavaş bileşenlerden biridir. Diskler sundukları kalıcı depolamanın yanı sıra bir performans penaltısı ile birlikte gelirler. Sistem hafızasından (RAM) yapılan okuma/yazma en hızlı SSD diskten yapılan okuma/yazmadan bile 5-10 kat daha hızlıdır.

@@ -1,5 +1,0 @@
----
-title: Hello
----
-
-You can use several tools to install Ruby. This page describes how to use major package management systems and third-party tools for managing and installing Ruby and how to build Ruby from source.
